@@ -169,7 +169,7 @@ color: #402B2B;
     }
     #faq-img img{ 
         width: 50%;
-        margin-left: 35%;
+        margin-left: 25%;
         padding-top: 15%;
         
         
@@ -178,13 +178,34 @@ color: #402B2B;
         background: #FDEDE8;;
         height:100vh;
         border: none;
-        margin-left: -30%;
+        margin-left: -40%;
         border-top-left-radius:80px ;
     }
-    #faq-infos{
+    #faq-infos h2{
         position: absolute;
         width: 550px;
         height: 294.16px;
-        left: 240px;
-        top: 3023px;
+        left: 200px;
+        top: 2650px;
+        font-family: Rubik;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 24px;
+        line-height: 40px;
+       letter-spacing: 0.1em;
+        color: #EE4D47;
+
+    }
+    #faq-infos h4{
+        position: absolute;
+        width: 550px;
+        height: 200px;
+        left: 200px;
+        top: 2750px;
+        font-family: DM Serif Display;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 48px;
+        line-height: 140%;
+        color: #402B2B;
     }
