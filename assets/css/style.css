@@ -209,3 +209,42 @@ color: #402B2B;
         line-height: 140%;
         color: #402B2B;
     }
+
+    footer{
+        margin-top: 55%;
+        background-image: url(/assets/img/BG.png) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    color: wheat;
+     
+    }
+    #footer{
+        display: grid;
+        grid-template-columns: 2fr 2fr;
+
+    }
+    #footer-infos img{
+        position: absolute;
+        width: 489.2px;
+        height: 209px;
+        left: 0px;
+        top: 3546px;
+    }
+    #footer-infos{
+  
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 30px;
+color: #FFFFFF;
+margin-left: 35%;
+margin-top: 25%;
+padding-left: 5%;
+border-left: 10px solid  #ED4D47;   
+border-bottom-left-radius: 5px;
+border-top-left-radius: 5px;
+
+    }
