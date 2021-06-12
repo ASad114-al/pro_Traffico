@@ -5,7 +5,7 @@
 body{
     background: #E5E5E5;}
 header{
-    background-image: url(/assets/img/Scene.png) ;
+    background-image: url(../img/Scene.svg) ;
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -213,7 +213,7 @@ color: #402B2B;
 
     footer{
     margin-top: 55%;
-    background-image: url(/assets/img/BG.png) ;
+    background-image: url(../img/BG.png) ;
     background-repeat: no-repeat;
     background-size: cover;
     border-top-right-radius: 90px;
