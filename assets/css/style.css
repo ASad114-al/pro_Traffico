@@ -323,3 +323,19 @@ border-top-left-radius: 5px;
         list-style: none;
         text-decoration: none;
     }
+    #icon-media{
+       
+        justify-content: space-evenly;
+        width: 30%;
+        margin-top: 1%;
+    }
+    #footer2{
+        display: flex;
+        margin-left: 5%;
+    }
+   /*  display: grid;
+    grid-template-columns: 2fr 2fr;
+    margin-top: 35%;
+    margin-bottom: -20%; */
+
+   
